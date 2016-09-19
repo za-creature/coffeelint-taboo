@@ -27,7 +27,7 @@ module.exports = class TabooLinter
     check: (node, name) =>
         if ~@identifiers.indexOf(name)
             @errors.push({
-                lineNumber: node.first_line + 1
+                lineNumber: node.locationData.first_line + 1
                 message: "Accessing \"#{name}\" is not allowed"
             })
 
