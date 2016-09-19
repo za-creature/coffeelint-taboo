@@ -1,6 +1,6 @@
 {
   "name": "coffeelint-taboo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "coffeelint plugin that doesn't allow accessing certain identifiers (console, debugger, it.only, etc.)",
   "keywords": [
     "coffee",
