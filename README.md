@@ -1,3 +1,5 @@
+NO LONGER MAINTAINED
+
 # coffeelint-taboo
 
 [![Circle CI](https://circleci.com/gh/za-creature/coffeelint-taboo/tree/master.svg?style=shield)](https://circleci.com/gh/za-creature/coffeelint-taboo/tree/master)
